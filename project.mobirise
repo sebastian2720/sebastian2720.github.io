@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SJBV ",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -822,8 +822,8 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Page 1",
+        "meta_descr": "Our Gallery ",
+        "title": "Gallery ",
         "order": 2
       },
       "components": [
