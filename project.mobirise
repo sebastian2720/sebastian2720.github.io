@@ -58,7 +58,7 @@
     "uniqCompNum": 22,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/download-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/android-icon-96x96-96x96.png",
     "noImageResize": "",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
