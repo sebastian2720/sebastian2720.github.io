@@ -1662,11 +1662,6 @@ body {
 .cid-rsYBZojBMp .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 992px) {
-  .cid-rsYBZojBMp .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
-}
 .cid-rsYBZojBMp .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2321,11 +2316,6 @@ body {
 .cid-rsYBZojBMp .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 992px) {
-  .cid-rsYBZojBMp .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
-}
 .cid-rsYBZojBMp .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2883,11 +2873,6 @@ body {
 .cid-rsYBZojBMp .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rsYBZojBMp .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-rsYBZojBMp .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-rsYBZojBMp .collapsed button.navbar-toggler {
   display: block;
@@ -3488,11 +3473,6 @@ body {
 .cid-rsYBZojBMp .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rsYBZojBMp .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-rsYBZojBMp .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-rsYBZojBMp .collapsed button.navbar-toggler {
   display: block;
