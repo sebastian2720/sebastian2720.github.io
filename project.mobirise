@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SJBV ",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,9 +13,9 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Roboto",
+        "display1Font": "Fredoka One",
         "display1Size": 4.25,
-        "display2Font": "Rubik",
+        "display2Font": "Luckiest Guy",
         "display2Size": "3.2",
         "display5Font": "Rubik",
         "display5Size": 1.5,
@@ -55,7 +55,7 @@
         "url": "https://fonts.googleapis.com/css?family=Luckiest+Guy:400"
       }
     ],
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/download-128x128-1.png",
